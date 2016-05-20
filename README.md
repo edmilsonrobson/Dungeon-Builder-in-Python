@@ -22,4 +22,4 @@ This project is being developed entirely by me (Edmilson).
 You can reach me at twitter.com/edmilson_rocha_.
 
 ## License
-No rights reserved. All the code is under Creative Commons 0 (public domain).
+No rights reserved. All the code is under the Creative Commons Zero license (Public Domain). For more information, read the `LICENSE` file in the project.
