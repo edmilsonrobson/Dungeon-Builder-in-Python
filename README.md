@@ -15,6 +15,7 @@ I made this very small project to both practice python and dungeon-building algo
 * __TODO__: Spawn a hero (@) in a random position
 * __TODO__: Create an exit (E) in another random position in the map
 * __TODO__: Mark the path from the hero's initial position to the exit using dots (.) 
+* __TODO__: Create rooms with different shapes
 
 
 ## Contributors
