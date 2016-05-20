@@ -4,6 +4,7 @@
 A very simple dungeon-builder in Python along with a pathfinding algorithm (A*) for it.
 
 ## Motivation
+I made this very small project to both practice python and dungeon-building algorithms, which is a very important skill in roguelike development, for example.
 
 ## Features
 * Generate random rooms in a grid
