@@ -20,7 +20,7 @@ I made this very small project to both practice python and dungeon-building algo
 
 ## Contributors
 This project is being developed entirely by me (Edmilson).
-You can reach me at twitter.com/edmilson_rocha_.
+You can reach me on twitter at [@edmilson_rocha_](http://twitter.com/edmilson_rocha_).
 
 ## License
 No rights reserved. All the code is under the Creative Commons Zero license (Public Domain). For more information, read the `LICENSE` file in the project.
